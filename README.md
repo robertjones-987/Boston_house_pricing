@@ -2,7 +2,7 @@
 
 ## Boston House Pricing Prediction
 
-### Softwares and Tools
+### Softwares and Tool
 
 1. [github Account](https://github.com)
 2. [Heroku Account](https://heroku.com)
